@@ -1,2 +1,2 @@
-esta es una prueba
+esta es una prueba de modificar linea 1 por desarrollador 2
 esta es una 2da linea de prueba
