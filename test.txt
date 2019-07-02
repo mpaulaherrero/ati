@@ -1,2 +1,3 @@
-esta es una prueba de modificar linea 1 por desarrollador 2
+esta es una prueba donde modifico la linea 1 otra vez y tambien la modifica el desarrollador 2
 esta es una 2da linea de prueba
+esta es la 3era linea
